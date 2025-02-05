@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 👬 Member of [Higress](https://github.com/alibaba/higress).
 - 🔭 Focusing on the microservices domain, primarily using Java and Go.
-- 🌱 Learning Envoy source code and planning to learn Rust for more hands-on experience.
+- 🌱 Currently just starting to get in touch with distributed storage, and learning the Envoy source code and planning to learn Rust to gain more hands - on experience.
 - ✍🏻 Record my programming learning notes on [my personal blog](https://blog.csdn.net/qq_40378034).
