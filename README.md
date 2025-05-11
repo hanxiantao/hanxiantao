@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 - 👬 Member of [Higress](https://github.com/alibaba/higress).
 - 🔭 Focusing on the microservices domain, primarily using Java and Go.
-- 🌱 Currently, I am studying the source code of Envoy, and I have just started to get in touch with distributed storage in my work.
 - ✍🏻 Record my programming learning notes on [my personal blog](https://blog.csdn.net/qq_40378034).
