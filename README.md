@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👬 Member of [Higress](https://github.com/alibaba/higress).
-- 🔭 Focusing on the microservices domain, primarily using Java and Go.
-- 📖 Currently learning distributed storage (SeaweedFS) and related technologies including Kubernetes CSI.
+- 🔭 Focusing on the microservices domain with Java and Go as my main tech stacks.
+- 🤖 Recently responsible for the company's internal AI infrastructure construction, and fascinated by emerging AI technologies.
 - ✍🏻 Record my programming learning notes on [my personal blog](https://blog.csdn.net/qq_40378034).
